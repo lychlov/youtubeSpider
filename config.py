@@ -1,0 +1,5 @@
+keywords = [
+    'defi',
+    'meta',
+    'bitcoin',
+]
